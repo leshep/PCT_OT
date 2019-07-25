@@ -18,7 +18,7 @@ for it=1:nb_iterations
     D1R = R * D1;
     D0R_ = zeros(size(D0)); 
     
-    for i=1:nb_projs%, nb_projs)
+    parfor (i=1:nb_projs, nb_projs) 
         [D0R_(i,:)] = OTsort(D0R(i,:), D1R(i,:));       
     end  
     
