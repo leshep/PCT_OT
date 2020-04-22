@@ -9,13 +9,17 @@ you like, but please cite our paper:
 
 Patch-Based Colour Transfer with Optimal Transport<br/>
 Hana Alghamdi ; Mairead Grogan ; Rozenn Dahyot<br/>
-European Signal Processing Conference (EUSIPCO) 2019
-
+In proceedings of the 27th European Signal Processing Conference (EUSIPCO) 2019
 
 A bibtex entry for this paper is given below:
 
-@INPROCEEDINGS{Alghamdi2019, author={H. {Alghamdi} and M. {Grogan} and R. {Dahyot}}, booktitle={2019 27th European Signal Processing Conference (EUSIPCO)}, title={Patch-Based Colour Transfer with Optimal Transport}, year={2019}, volume={}, number={}, pages={1-5},}
-
+@INPROCEEDINGS{Alghamdi2019, 
+title={Patch-Based Colour Transfer with Optimal Transport}, 
+author={H. {Alghamdi} and M. {Grogan} and R. {Dahyot}}, 
+booktitle={2019 27th European Signal Processing Conference (EUSIPCO)}, 
+year={2019}, 
+pages={1-5},
+doi = 10.23919/EUSIPCO.2019.8902611,}
 
 
 Contact: Hana Alghamdi  alghamdh@tcd.ie
