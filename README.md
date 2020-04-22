@@ -8,7 +8,6 @@ You can use the provided results for comparisons and download this source code f
 you like, but please cite our paper:
 
 Patch-Based Colour Transfer with Optimal Transport
-
 Hana Alghamdi ; Mairead Grogan ; Rozenn Dahyot
 European Signal Processing Conference (EUSIPCO) 2019
 
