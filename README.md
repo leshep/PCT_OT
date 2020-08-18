@@ -7,8 +7,9 @@ Optimal Transport'.
 You can use the provided results for comparisons and download this source code for free, use and change it as
 you like, but please cite our paper:
 
-```Patch-Based Colour Transfer with Optimal Transport<br/>
-Hana Alghamdi ; Mairead Grogan ; Rozenn Dahyot<br/>
+```
+Patch-Based Colour Transfer with Optimal Transport
+Hana Alghamdi ; Mairead Grogan ; Rozenn Dahyot
 In proceedings of the 27th European Signal Processing Conference (EUSIPCO) 2019
 ```
 A bibtex entry for this paper is given below:
